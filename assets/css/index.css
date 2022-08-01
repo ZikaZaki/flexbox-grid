@@ -15,5 +15,5 @@ div:not([class]) {
 /* general styling */
 
 header {
-  margin-block: 3rem;
+    margin-block: 3rem;
 }
