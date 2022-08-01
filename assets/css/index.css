@@ -1,0 +1,19 @@
+.flex-container {
+  /* display: flex; */
+}
+
+.grid-container {
+  /* display: grid; */
+}
+
+/* to help visualize */
+div:not([class]) {
+  outline: 2px solid black;
+  padding: 0.5em;
+}
+
+/* general styling */
+
+header {
+  margin-block: 3rem;
+}
